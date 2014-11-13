@@ -1,5 +1,3 @@
-function kansu(num){
-  alert(num);
+function id(x){
+   return(x)
 }
-
-var tmp = kansu(10);

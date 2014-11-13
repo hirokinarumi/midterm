@@ -1,3 +1,4 @@
-function tasizan(a,b){
-  var c=Number(a)+Number(b);
-  return c;
+function add(a,b){
+  message = a + b;
+  return message;
+}
